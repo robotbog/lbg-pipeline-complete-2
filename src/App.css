@@ -4,16 +4,16 @@
 }
 
 .colour-border{
-  border: 3px solid red;
+  border: 3px solid gold;
   padding: 10px;
 }
 
 .header{
-  padding: 10px;
+  padding: 15px;
 }
 
 h1 { 
-    color: maroon;
+    color: solid royalblue;
 }
 
 h3 { 
@@ -22,5 +22,5 @@ h3 {
 
 body  {
   padding: 10px;
-  background-color: white;
+  background-color: linen;
 }
